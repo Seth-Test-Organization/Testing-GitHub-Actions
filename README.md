@@ -1,3 +1,3 @@
 # Testing-GitHub-Actions
 
-Some breaking change
+Some minor change
